@@ -1,0 +1,108 @@
+{
+	"cars" : [
+		{
+			"model" : "Spark",
+			"color" : "Green",
+			"year"  : "2015",
+			"price" : 12270
+		},{
+			"model" : "Sonic",
+			"color" : "Red",
+			"year"  : "2015",
+			"price" : 14245
+		},{
+			"model" : "Cruze",
+			"color" : "Cobalt",
+			"year"  : "2015",
+			"price" : 16170
+		},{
+			"model" : "Malibu",
+			"color" : "White",
+			"year"  : "2015",
+			"price" : 22465
+		},{
+			"model" : "Impala",
+			"color" : "Blue",
+			"year"  : "2015",
+			"price" : 27060
+		},{
+			"model" : "Volt",
+			"color" : "White",
+			"year"  : "2015",
+			"price" : 34345
+		}
+	],
+
+	"performance" : [
+		{
+			"model" : "SS Sedan",
+			"color" : "Black",
+			"year"  : "2015",
+			"price" : 45745
+		},{
+			"model" : "Camaro",
+			"color" : "Red",
+			"year"  : "2015",
+			"price" : 23705
+		},{
+			"model" : "Corvette",
+			"color" : "Gray",
+			"year"  : "2015",
+			"price" : 55000
+		}
+	],
+
+	"suvs" : [
+		{
+			"model" : "Trax",
+			"color" : "Orange",
+			"year"  : "2015",
+			"price" : 20120
+		},{
+			"model" : "Equinox",
+			"color" : "Red",
+			"year"  : "2015",
+			"price" : 22120
+		},{
+			"model" : "Traverse",
+			"color" : "Black",
+			"year"  : "2015",
+			"price" : 30995
+		},{
+			"model" : "Tahoe",
+			"color" : "Red",
+			"year"  : "2015",
+			"price" : 46300
+		},{
+			"model" : "Suburban",
+			"color" : "Black",
+			"year"  : "2015",
+			"price" : 49000
+		}
+	],
+
+	"trucks" : [
+		{
+			"model" : "Colorado",
+			"color" : "White",
+			"year"  : "2015",
+			"price" : 20120
+		},{
+			"model" : "Silverado",
+			"color" : "Maroon",
+			"year"  : "2015",
+			"price" : 26105
+		}
+	]
+}
+
+
+
+
+
+
+
+
+
+
+
